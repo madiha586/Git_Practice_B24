@@ -1,0 +1,9 @@
+package setup;
+
+public class Third {
+    public static void main(String[] args) {
+
+        System.out.println("I want to get succeed");
+        System.out.println("Hello my java world");
+    }
+}
