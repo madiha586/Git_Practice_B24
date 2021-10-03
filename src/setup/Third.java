@@ -11,5 +11,6 @@ public class Third {
         System.out.println("i will work hard");
 
         System.out.println("Keep going ");
+        System.out.println("Dont give up");
     }
 }
