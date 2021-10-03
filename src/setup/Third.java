@@ -12,5 +12,7 @@ public class Third {
 
         System.out.println("Keep going ");
         System.out.println("Dont give up");
+        // kep updating
+        System.out.println("I can do this");
     }
 }
