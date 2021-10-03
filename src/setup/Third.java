@@ -9,5 +9,7 @@ public class Third {
         // adding more
 
         System.out.println("i will work hard");
+
+        System.out.println("Keep going ");
     }
 }
