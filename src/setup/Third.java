@@ -5,5 +5,9 @@ public class Third {
 
         System.out.println("I want to get succeed");
         System.out.println("Hello my java world");
+
+        // adding more
+
+        System.out.println("i will work hard");
     }
 }
